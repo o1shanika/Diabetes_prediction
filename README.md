@@ -1,5 +1,7 @@
 Parameters used for this,
+
 Pregnancies
+
 glucose
 bloodPressure
 skinThickness
